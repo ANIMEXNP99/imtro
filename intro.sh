@@ -1,5 +1,5 @@
 clear
-mpv /$HOME/TermuxHomeScreen/welcome.mp3
+mpv /$HOME/imtro/welcome.mp3
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
       |                                                |
       | _   _  _____ _  ________  _____  _    _        |
